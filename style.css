@@ -1,0 +1,42 @@
+body{
+background-color: #FFB273;
+font-family: Arial, sans-serif;
+}
+.title{
+color:aliceblue;
+text-align: center;
+}
+.background{
+color:aliceblue;
+text-align: center;
+}
+.Fullbody{
+color:#FD0006 ;
+text-align: center;
+
+}   
+.body{
+color: #D310C6;
+text-align: left;  
+}
+.legs{
+color: #086CA2;
+text-align: right;
+}
+.hands{
+color: #FC6DFE;
+}
+.foto{
+width:400px ;
+height: 400px;
+
+}
+div{
+    margin-bottom: 300px;
+   position: absolute;
+   left: 555px;
+   top: 300px;
+    
+} 
+  
+
